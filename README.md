@@ -5,6 +5,6 @@
 [**Pointfrip/Freemium**](https://github.com/pointfrip/freemium) 
 
 
-[Pointfrip/Premium](https://github.com/metazip/pointfrip) of Pointfrip (.exe-Version) \
-[Website](https://pointfree-interpreter.github.io/) of Pointfrip
+[**Pointfrip/Premium**](https://github.com/metazip/pointfrip) of Pointfrip (.exe-Version) \
+[**Website**](https://pointfree-interpreter.github.io/) of Pointfrip
 
