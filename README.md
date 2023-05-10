@@ -1,6 +1,6 @@
 # pointfrip.github.io
 
-![Pointfrip](https://raw.githubusercontent.com/pointfrip/pointfrip.github.io/main/images/pixel2image.png)
+![Pointfrip](https://raw.githubusercontent.com/pointfrip/pointfrip.github.io/main/images/pixel2image.png) \
 [Pointfrip/Freemium](https://github.com/pointfrip/freemium) \
 
 
