@@ -2,9 +2,9 @@
 
 ![Pointfrip](https://raw.githubusercontent.com/pointfrip/pointfrip.github.io/main/images/pixel2image.png) \
 
-[**Pointfrip/Freemium**](https://github.com/pointfrip/freemium) 
+[**Freemium**](https://github.com/pointfrip/freemium) of Pointfrip for Android - in Kotlin
 
 
-[**Pointfrip/Premium**](https://github.com/metazip/pointfrip) of Pointfrip (.exe-Version) \
+[**Premium**](https://github.com/metazip/pointfrip) of Pointfrip (.exe-Version) \
 [**Website**](https://pointfree-interpreter.github.io/) of Pointfrip
 
